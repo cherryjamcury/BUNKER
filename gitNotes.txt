@@ -1,0 +1,16 @@
+Scenario 1 
+Uploaded by mistake a file. So want to  cancel last submission 
+Try to do following: 
+1 git reset --hard HEAD~[n]
+here n is a number of previously made commitmnets u want to cancel 
+then 
+run 
+git push -f 
+git reflog 
+
+
+how to delete files from github wesite using console
+1: git rm --cached -r . 
+2: git add file required 
+3: git commit -m 
+4: git push -f remote branch 
