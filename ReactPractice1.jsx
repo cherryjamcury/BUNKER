@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 
 
-
+//Connect to API 
 async function ConnectToAPI(URL, KEY = null){
 
   const headers = {}
@@ -30,6 +30,7 @@ async function ConnectToAPI(URL, KEY = null){
 
 
 
+//Handle Data 
 function  HandleData(data){
   if(Array.isArray(data)){
     data.forEach(item => HandleData(item))
