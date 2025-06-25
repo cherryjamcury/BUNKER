@@ -26,3 +26,9 @@ git remote add [link]
 
 How to see global Git config 
 git config --global --list 
+
+
+git push bunker mainBranch
+error: src refspec mainBranch does not match any
+error: failed to push some refs to 'https://github.com/cherryjamcury/BUNKER.git'
+vdfvsf 
