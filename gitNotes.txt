@@ -14,3 +14,12 @@ how to delete files from github wesite using console
 2: git add file required 
 3: git commit -m 
 4: git push -f remote branch 
+
+
+
+
+How to pull 
+Git pull [remote] [branch]
+
+Add remote 
+git remote add [link]
