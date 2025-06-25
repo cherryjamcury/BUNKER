@@ -23,3 +23,6 @@ Git pull [remote] [branch]
 
 Add remote 
 git remote add [link]
+
+How to see global Git config 
+git config --global --list 
