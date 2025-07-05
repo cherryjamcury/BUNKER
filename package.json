@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@iconify-json/streamline-emojis": "^1.2.2"
+  },
+  "dependencies": {
+    "@iconify-json/logos": "^1.2.4"
+  }
+}
